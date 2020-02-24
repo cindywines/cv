@@ -1,0 +1,137 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Montserrat', Arial sans-serif;
+}
+
+h1 {
+  margin: 25px auto 0 auto;
+  font-family: 'Liu Jian Mao Cao', Arial sans-serif;
+  font-size: 4rem;
+  color: #00B8C7;
+}
+
+h2 {
+  font-family: 'Lato' sans-serif;
+  font-size: 2rem;
+  margin-top: 20px;
+  color: #00B8C7;
+}
+
+h3 {
+  font-family: 'Lato' sans-serif;
+}
+
+.attribution {
+  font-size: x-small;
+}
+
+
+/* Classes */
+.top-container {
+  background-color: #D6FCFF;
+  position: relative;
+  padding: 100px 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+  padding: 10px;
+  }
+
+  .mountain {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+  .profile-photo {
+    height: 200px;
+    width: 240px;
+  }
+
+  .icons-coding {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin: 20px;
+  }
+
+  .icons-checklist {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin: 20px;
+  }
+
+  .icons-feature {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin: 20px;
+  }
+
+  .skill-row {
+    overflow: hidden;
+    width: 50%;
+    margin: 20px auto 20px auto;
+    text-align: left;
+  }
+
+  .middle-container {
+    margin: 30px 0 0 0;
+  }
+
+/* Ids */
+
+
+/*fonts */
+.lato {
+  font-family: 'Lato';
+}
+
+.merriweather {
+font-family: 'Merriweather'
+}
+
+.amatic {
+  font-family: 'Amatic SC';
+}
+
+.covered {
+  font-family: 'Covered By Your Grace';
+}
+
+.glory {
+  font-family: 'Give You Glory';
+}
+
+.liu {
+  font-family: 'Liu Jian Mao Cao';
+}
+
+.neucha {
+  font-family: 'Neucha';
+}
+
+.rainbow {
+  font-family: 'Over the Rainbow'
+}
+
+.sacramento {
+  font-family: 'Sacramento';
+}
+
+.sedgwick {
+  font-family: 'Sedgwick Ave'
+}
+
